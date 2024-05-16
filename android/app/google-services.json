@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721990517516",
+    "project_id": "dynamic-reef-413004",
+    "storage_bucket": "dynamic-reef-413004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721990517516:android:bc713c433490452d1f7f29",
+        "android_client_info": {
+          "package_name": "com.example.tiktok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJuIcOw_oNsBSikU4WJEEwTrLQEyRoeS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
