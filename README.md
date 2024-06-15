@@ -1,8 +1,12 @@
 # Social Media App
 
- <h1>
+ <h2>
   Flutter Social Media TikTok App with Firebase using MVVM Architecture and BLoC Pattern
- </h1>
+ </h2>
+ <h3>
+  It includes authentication and allows users to upload videos with song and caption, add likes, shares, and comments, follow and chat with texts, recordings, images, and videos, and search for other users.
+  It also contains Notifications
+ </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
