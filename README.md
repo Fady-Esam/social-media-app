@@ -1,6 +1,6 @@
-# Social Media TikTok
+# Social Media App
 
- Flutter With Firebase Social Media TikTok App with MVVM Architecture And BLoC Pattern
+ Flutter Social Media TikTok App with Firebase using MVVM Architecture and BLoC Pattern
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
