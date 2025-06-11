@@ -1,10 +1,10 @@
-# Flutter Social Media App
+# 📱 Flutter Social Media App
 
 A sleek and high-performance Flutter-based social media application inspired by modern short-form video platforms. Built for smooth user interaction and real-time engagement, this project showcases seamless media handling, and integration with scalable cloud services.
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - 🔐 Secure authentication using Firebase Auth  
 - 🎬 Upload short videos with song and caption  
@@ -15,13 +15,13 @@ A sleek and high-performance Flutter-based social media application inspired by 
 
 ---
 
-## 🎬 Preview
+## 🎬 Preview:
 
 [social media.webm](https://github.com/Fady-Esam/Social-Media-TikTok/assets/146977882/3ef6cf35-cf0e-4fbd-92f2-750049a99222)
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools:
 <p align="left"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="45"/>
@@ -33,7 +33,7 @@ A sleek and high-performance Flutter-based social media application inspired by 
 
 ---
 
-## 📦 Packages Used
+## 📦 Packages Used:
 
 - 🔁 `flutter_bloc`
 - 🔐 `firebase_auth`
@@ -53,7 +53,7 @@ A sleek and high-performance Flutter-based social media application inspired by 
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me:
 <h5 align="left"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
