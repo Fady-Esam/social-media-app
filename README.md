@@ -23,7 +23,7 @@ A sleek and high-performance Flutter-based social media application inspired by 
 
 ## 🛠️ Languages & Tools
 <p align="left"> 
-        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,git,github" alt="Tech stack icons" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,vscode,git,github" alt="Tech stack icons" />
 </p>
 
 ---
