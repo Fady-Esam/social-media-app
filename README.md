@@ -6,7 +6,7 @@ A sleek and high-performance Flutter-based social media application inspired by 
 
 ## ✨ Features
 
-- 🔐 Secure authentication using Firebase Auth  
+- 🔐 Secure authentication (Login / Signup / Logout)  
 - 🎬 Upload short videos with song and caption  
 - ❤️ Like, 💬 comment, and 🔁 share functionality  
 - 🔍 Discover & follow other users  
