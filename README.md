@@ -1,18 +1,27 @@
 # 📱 Flutter Social Media App
 
 A sleek and high-performance Flutter-based social media application inspired by modern short-form video platforms.  
-Built for smooth user interaction and real-time engagement, this project showcases seamless media handling, and integration with scalable cloud services.
+Created for smooth user interaction and real-time engagement, this project showcases seamless media handling, and integration with scalable cloud services.
+Built MVVM clean architecture for scalability and maintainability and BLoC pattern for predictable and scalable UI logic.
 
 ---
 
 ## ✨ Features
 
-- 🔐 Secure authentication (Login / Signup / Logout)  
+- 🔐 Secure authentication (Login / Signup / Logout)  
 - 🎬 Upload short videos with song and caption  
 - ❤️ Like, 💬 comment, and 🔁 share functionality  
-- 🔍 Discover & follow other users  
-- 💬 Real-time chat with text, image, video & voice  
-- 🔔 Push notifications for updates and messages  
+- 🔍 Discover & follow other users with real-time interaction  
+- 🧑‍🤝‍🧑 View user profiles showing posts, and follower stats  
+- 🔎 Search for users by name or username  
+- 💬 Real-time chat with text, image, video & voice messaging  
+- 🗑️ Delete or clear individual messages and entire conversations  
+- 🔔 Push notifications for updates and new messages  
+- 🗂️ MVVM Architecture with a clear separation of concerns between Model, View, and ViewModel layers for scalability and maintainability    
+- 🧠 Robust State Management built with the BLoC pattern for predictable and scalable UI logic  
+
+---
+
 
 ---
 
