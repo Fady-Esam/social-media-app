@@ -2,7 +2,7 @@
 
 A sleek and high-performance Flutter-based social media application inspired by modern short-form video platforms.  
 Developed for smooth user interaction and real-time engagement, this project showcases seamless media handling, and leverages **Firebase** for authentication, storage, messaging, and scalable cloud infrastructure.  
-Built with MVVM architecture for scalability and maintainability and BLoC pattern for predictable and scalable UI logic.
+Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
 
 ---
 
