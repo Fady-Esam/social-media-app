@@ -1,7 +1,7 @@
 # 📱 Flutter Social Media App
 
-A sleek and high-performance Flutter-based social media application inspired by modern short-form video platforms.   
-Developed for smooth user interaction and real-time engagement, this project showcases seamless media handling, and integration with scalable cloud services.    
+A sleek and high-performance Flutter-based social media application inspired by modern short-form video platforms.  
+Developed for smooth user interaction and real-time engagement, this project showcases seamless media handling, and leverages **Firebase** for authentication, storage, messaging, and scalable cloud infrastructure.  
 Built with MVVM architecture for scalability and maintainability and BLoC pattern for predictable and scalable UI logic.
 
 ---
@@ -19,8 +19,6 @@ Built with MVVM architecture for scalability and maintainability and BLoC patter
 - 🔔 Push notifications for updates and new messages  
 - 🗂️ MVVM Architecture with a clear separation of concerns between Model, View, and ViewModel layers for scalability and maintainability    
 - 🧠 Robust State Management built with the BLoC pattern for predictable and scalable UI logic  
-
----
 
 
 ---
@@ -56,9 +54,11 @@ Built with MVVM architecture for scalability and maintainability and BLoC patter
 - 📁 `path_provider`
 - ⌛ `timeago`
 
+
 ---
 
-## 📫 Connect With Me:
+
+## 📫 Connect With Me
 <h5 align="left"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
@@ -68,6 +68,4 @@ Built with MVVM architecture for scalability and maintainability and BLoC patter
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="45" width="50" /> 
 </a> 
 </h5>
-
-
 
