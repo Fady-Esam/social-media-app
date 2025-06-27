@@ -1,8 +1,8 @@
 # 📱 Flutter Social Media App
 
-A sleek and high-performance Flutter-based social media application inspired by modern short-form video platforms.  
-Created for smooth user interaction and real-time engagement, this project showcases seamless media handling, and integration with scalable cloud services.
-Built MVVM clean architecture for scalability and maintainability and BLoC pattern for predictable and scalable UI logic.
+A sleek and high-performance Flutter-based social media application inspired by modern short-form video platforms.   
+Developed for smooth user interaction and real-time engagement, this project showcases seamless media handling, and integration with scalable cloud services.    
+Built with MVVM architecture for scalability and maintainability and BLoC pattern for predictable and scalable UI logic.
 
 ---
 
